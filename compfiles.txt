@@ -1,0 +1,17 @@
+./miPrincipal/OrdNaturalMerge.java
+./miPrincipal/Principal.java
+./miPrincipal/OrdHeapSort.java
+./miPrincipal/Contacto.java
+./miPrincipal/OrdInsercion.java
+./miPrincipal/OrdMergeSort.java
+./miPrincipal/OrdRadixSort.java
+./miPrincipal/OrdSeleccion.java
+./miPrincipal/OrdQuickSort.java
+./miPrincipal/CriterioContactoApellido.java
+./miPrincipal/Performance.java
+./miPrincipal/OrdUtil.java
+./miPrincipal/CriterioContactoId.java
+./miPrincipal/OrdBurbuja.java
+./miPrincipal/OrdShellSort.java
+./miPrincipal/AppComparacion.java
+./miTest/AppTest.java
